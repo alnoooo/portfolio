@@ -1,5 +1,10 @@
 [
     {
+        "title": "test",
+        "description": "GitHub Automation Project",
+        "github": "https://github.com/alnoooo/test"
+    },
+    {
         "title": "updatebot",
         "description": "GitHub Automation Project",
         "github": "https://github.com/alnoooo/updatebot"
