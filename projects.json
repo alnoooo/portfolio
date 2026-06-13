@@ -1,7 +1,27 @@
 [
     {
-        "title": "Sample Project",
-        "description": "Temporary project",
-        "github": "https://github.com/alnoooo"
+        "title": "autobot",
+        "description": "GitHub Automation Project",
+        "github": "https://github.com/alnoooo/autobot"
+    },
+    {
+        "title": "newsbot",
+        "description": "GitHub Automation Project",
+        "github": "https://github.com/alnoooo/newsbot"
+    },
+    {
+        "title": "portfolio",
+        "description": "GitHub Automation Project",
+        "github": "https://github.com/alnoooo/portfolio"
+    },
+    {
+        "title": "updatebot",
+        "description": "GitHub Automation Project",
+        "github": "https://github.com/alnoooo/updatebot"
+    },
+    {
+        "title": "weather-alert-bot",
+        "description": "GitHub Automation Project",
+        "github": "https://github.com/alnoooo/weather-alert-bot"
     }
 ]
