@@ -1,4 +1,4 @@
-JS
+
 
 const filterButtons = document.querySelectorAll(".filter-btn");
 const projects = document.querySelectorAll(".project-card");
