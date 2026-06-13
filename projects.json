@@ -1,8 +1,8 @@
 [
     {
-        "title": "autobot",
+        "title": "updatebot",
         "description": "GitHub Automation Project",
-        "github": "https://github.com/alnoooo/autobot"
+        "github": "https://github.com/alnoooo/updatebot"
     },
     {
         "title": "newsbot",
@@ -10,13 +10,13 @@
         "github": "https://github.com/alnoooo/newsbot"
     },
     {
-        "title": "updatebot",
-        "description": "GitHub Automation Project",
-        "github": "https://github.com/alnoooo/updatebot"
-    },
-    {
         "title": "weather-alert-bot",
         "description": "GitHub Automation Project",
         "github": "https://github.com/alnoooo/weather-alert-bot"
+    },
+    {
+        "title": "autobot",
+        "description": "GitHub Automation Project",
+        "github": "https://github.com/alnoooo/autobot"
     }
 ]
